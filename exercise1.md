@@ -13,6 +13,6 @@ For each item on the pallet (a pallet can contain many different types of
 items), the team looks for:
 
 - a "not yet full" bin of those items (identifiable by "Stock Keeping Unit" - SKU).
-- an emptv bin
+- an empty bin
 
 The items are then put into the bin that was identified for storing them.
