@@ -8,3 +8,4 @@ There is a diagram of the [Warehouse](./warehouse.md).
 There are exercises that accompany the diagram:
 
  - [Putting away items from received pallets](./exercise1.md)
+ - [Building a pick list for an order](./exercise2.md)
