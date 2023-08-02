@@ -1,0 +1,56 @@
+{
+  "orders": {
+  },
+  "products": {
+    "PROD01": {
+      "name": "Grommet",
+      "size": 1
+    },
+    "PROD02": {
+      "name": "Washer",
+      "size": 1
+    },
+    "PROD03": {
+      "name": "Drill bit",
+      "size": 2
+    }
+  },
+  "aisles": {
+    "1": {
+      "bins": [
+        {
+          "id": "1",
+          "contains": {
+            "sku": "PROD01",
+            "quantity": 50
+          }
+        },
+        {
+          "id": "2",
+          "contains": {
+            "sku": "PROD02",
+            "quantity": 5
+          }
+        }
+      ]
+    },
+    "2": {
+      "bins": [
+        {
+          "id": "16",
+          "contains": {
+            "sku": "PROD03",
+            "quantity": 0
+          }
+        },
+        {
+          "id": "17",
+          "contains": {
+            "sku": "PROD03",
+            "quantity": 28
+          }
+        }
+      ]
+    }
+  }
+}
