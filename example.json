@@ -1,20 +1,23 @@
 {
   "orders": {
   },
-  "products": {
-    "PROD01": {
+  "products": [
+    {
+      "id": "PROD01",
       "name": "Grommet",
       "size": 1
     },
-    "PROD02": {
+    {
+      "id": "PROD02",
       "name": "Washer",
       "size": 1
     },
-    "PROD03": {
+    {
+      "id": "PROD03",
       "name": "Drill bit",
       "size": 2
     }
-  },
+  ],
   "aisles": {
     "1": {
       "bins": [
