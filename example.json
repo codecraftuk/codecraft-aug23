@@ -47,7 +47,14 @@
           "id": "17",
           "contains": {
             "sku": "PROD03",
-            "quantity": 28
+            "quantity": 24
+          }
+        },
+        {
+          "id": "18",
+          "contains": {
+            "sku": "PROD03",
+            "quantity": 25
           }
         }
       ]
