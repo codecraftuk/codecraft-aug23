@@ -1,0 +1,13 @@
+{
+  "id": "00021231",
+  "items": [
+    {
+      "sku": "PROD01",
+      "quantity": 5
+    },
+    {
+      "sku": "PROD03",
+      "quantity": 10
+    }
+  ]
+}
